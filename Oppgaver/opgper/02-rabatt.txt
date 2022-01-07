@@ -1,0 +1,8 @@
+# definer en ny funksjon som beregner ny pris med en bestemt rabattsats
+    # inndata for pris
+    # inndata for rabatt prosent
+    # if setninger som sjekker om den er over 100% eller mindre en 1%
+        # under else: formel for å regne ut ny pris
+
+
+#kjør funksjonen

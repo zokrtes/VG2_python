@@ -1,0 +1,4 @@
+#   lag to variabler for kari og henrik som er deklarert med input
+#   if setning som sier: hvis kari sin interger verdi er større en henrik så printer den "kari er eldst"
+#   elif som sier hvis kari sin interger verdi er mindre enn henrik så print henrik er eldst
+#   else som sier begge er like gammle

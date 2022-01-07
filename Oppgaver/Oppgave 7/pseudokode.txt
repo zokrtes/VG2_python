@@ -1,0 +1,8 @@
+# definer en funksjon ved navn beregnvolum
+# inni funksjonenen skal det ligge en formel, som er volum = lengde * bredde * hoyde, deretter returner volum
+# lag en variabel med input som float datatype, der brukeren skal skrive inn høyden på sidene på arket deres.
+# kall funksjon i en print med høyde inputen inni parentesene
+
+#lag variabel med 0 som verdi. lag liste uten noen verdi.
+
+# for løkke som regner ut volum formelen 10 ganger og putter den i en liste

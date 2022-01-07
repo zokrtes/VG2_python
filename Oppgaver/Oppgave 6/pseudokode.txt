@@ -1,0 +1,11 @@
+# variabel der bruker skal oppgi kjøpssum_inp
+
+# variabel der bruker skal oppgi lappen han har
+
+# en variabel som gjør kjøpssum_inp om til interger
+
+# variabel som regner ut hvormange penger han skal få tilbake
+
+# if setninger som sjekker hva bruker har betalt med
+
+# print som sier hvor mye penger du får tilbake totalt

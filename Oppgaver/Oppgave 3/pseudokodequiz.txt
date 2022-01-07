@@ -1,0 +1,107 @@
+#   Lag varaibel med interger datatype kalt poeng
+#   navn variabel med string input
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+#   lag if setning som sjekker om svar er riktig
+#   lag if setning som spør neste spørsmål
+
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+#   lag if setning som sjekker om svar er riktig
+#   lag if setning som spør neste spørsmål
+
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+
+#   lag if setning som sjekker om svar er riktig
+#   lag if setning som spør neste spørsmål
+
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+
+#   lag if setning som sjekker om svar er riktig
+#   lag if setning som spør neste spørsmål
+
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+
+#   lag if setning som sjekker om svar er riktig
+#   lag if setning som spør neste spørsmål
+
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+
+#   lag if setning som sjekker om svar er riktig
+#   lag if setning som spør neste spørsmål
+
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+
+#   lag if setning som sjekker om svar er riktig
+#   lag if setning som spør neste spørsmål
+
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+
+#   lag if setning som sjekker om svar er riktig
+#   lag if setning som spør neste spørsmål
+
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+
+#   lag if setning som sjekker om svar er riktig
+#   lag if setning som spør neste spørsmål
+
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+
+#   lag if setning som sjekker om svar er riktig
+#   lag if setning som spør neste spørsmål
+
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+
+#   lag if setning som sjekker om svar er riktig
+#   lag if setning som spør neste spørsmål
+
+#   skriv til skjerm: Du har nå startet quizen
+#   skriv til skjerm: (spørsmål her)?
+#   skriv til skjerm: a), b), c)?
+#   bruker taster inn svar
+
+#if setning som sier at hvis poeng summen din er under 0 så blir poeng summen din 0
+#print setning som sier at quizen er over og viser poen sumen deres
+#if setninger som bestemer hvor smart du er og gir en kommentar basert på poeng sum?

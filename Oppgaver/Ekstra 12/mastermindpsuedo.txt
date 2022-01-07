@@ -1,0 +1,11 @@
+# liste med 4 CPUfarger
+# liste med 4 CPUposisjoner
+
+# liste Brukerfarger
+# liste Brukerposisjoner
+
+# while løkke som kjører til til spillet er ferdig
+# input der du gjetter CPUfarger
+# input der du gjetter CPUposisjoner
+# splitter farge gjettet ditt
+# splitter posisjon gjettet ditt

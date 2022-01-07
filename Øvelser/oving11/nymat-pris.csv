@@ -1,0 +1,351 @@
+ID,Matvare,Kategori,Pris
+1,"Geitmelk, langtidsholdbar",Melk,190.79999999999998
+2,"Helmelk, 3,5 % fett, laktosefri",Melk,104.39999999999999
+3,"Helmelk, 3,5 % fett, Tine",Melk,105.6
+4,"Helmelk, 3,9 % fett, Q-meieriene",Melk,231.6
+5,"Helmelk, 4,1 % fett, økologisk",Melk,34.8
+6,"Helmelk, uspesifisert",Melk,216.0
+7,"Kaffemelk, 3,5 % fett",Melk,151.2
+8,"Kakao, med lettmelk, tilberedt",Melk,136.79999999999998
+9,"Lettmelk, 0,5 % fett, vitamin D, laktosefri",Melk,132.0
+10,"Lettmelk, 0,5 % fett, vitamin D, Q-meieriene",Melk,229.2
+11,"Lettmelk, 0,5-0,7 % fett, vitamin D, uspesifisert",Melk,114.0
+12,"Lettmelk, 0,7 % fett, vitamin D, Tine",Melk,91.2
+13,"Lettmelk, 0,7 % fett, økologisk",Melk,198.0
+14,"Lettmelk, 1,0 % fett, laktosefri",Melk,82.8
+15,"Lettmelk, 1,0 % fett, laktoseredusert",Melk,139.2
+16,"Lettmelk, 1,0 % fett, Q-meieriene",Melk,90.0
+17,"Lettmelk, 1,0 % fett, Tine",Melk,75.6
+18,"Lettmelk, 1,2 % fett, langtidsholdbar",Melk,147.6
+19,"Lettmelk, 1,2 % fett, økologisk",Melk,44.4
+20,"Lettmelk, 1-1,2 % fett, uspesifisert",Melk,24.0
+21,"Lettmelk, kakao, vitamin D, skolemelk",Melk,218.4
+22,"Lettmelk, uspesifisert",Melk,159.6
+23,"Melk, uspesifisert",Melk,49.199999999999996
+24,"Milkshake, jordbærsmak",Melk,34.8
+25,"Milkshake, sjokoladesmak",Melk,193.2
+26,"Sjokolademelk, av pulver og lettmelk",Melk,79.2
+27,"Sjokolademelk, laktosefri, uten tilsatt sukker, Litago Uten",Melk,116.39999999999999
+28,"Sjokolademelk, laktoseredusert, Litago",Melk,70.8
+29,"Sjokolademelk, Sjokomelk",Melk,38.4
+30,"Sjokolademelk, Styrk Kakao",Melk,159.6
+31,"Skummet melk, Styrk",Melk,118.8
+32,"Skummet melk, Tine",Melk,63.599999999999994
+33,"Syrnet melk, blåbær, laktosefri, Biola",Melk,186.0
+34,"Syrnet melk, blåbær, mager, Biola",Melk,225.6
+35,"Syrnet melk, blåbær/bringebær, BioQ",Melk,58.8
+36,"Syrnet melk, bringebær, Biola",Melk,240.0
+37,"Syrnet melk, jordbær, Biola",Melk,177.6
+38,"Syrnet melk, Kulturmjølk",Melk,48.0
+39,"Syrnet melk, naturell, Biola",Melk,238.79999999999998
+40,"Syrnet melk, naturell, økologisk, Cultura",Melk,204.0
+41,"Syrnet melk, rødbete/eple/lime, Biola",Melk,226.79999999999998
+42,"Syrnet melk, Skumma Kulturmjølk",Melk,36.0
+43,"Syrnet melk, økologisk, Kefir",Melk,124.8
+44,"Skyr, med smak, kunstig søtet",Melk,199.2
+45,"Skyr, naturell",Melk,213.6
+46,"Yoghurt, Biola Mild",Melk,208.79999999999998
+47,"Yoghurt, frukt, 0,1 % fett, lett, Yoplait",Melk,90.0
+48,"Yoghurt, Gresk Sitron",Melk,177.6
+49,"Yoghurt, jordbær",Melk,132.0
+50,"Yoghurt, med müsli og skogsbær,  Go Morgen",Melk,175.2
+51,"Yoghurt, naturell",Melk,202.79999999999998
+52,"Yoghurt, naturell, laktosefri",Melk,124.8
+53,"Yoghurt, naturell, økologisk",Melk,154.79999999999998
+54,"Yoghurt, vanilje, laktosefri",Melk,94.8
+55,"Crème Fraîche, 35 % fett",Melk,193.2
+56,Dessert-topping på boks,Melk,138.0
+57,"Husholdningshvitt, flytende",Melk,214.79999999999998
+58,"Kaffefløte, 10 % fett",Melk,211.2
+59,Kaffehvitt,Melk,97.2
+60,"Kaffehvitt, pulver, Coffeemate",Melk,106.8
+61,"Krem, pisket, på boks",Melk,27.599999999999998
+62,"Kremfløte, 37 % fett",Melk,99.6
+63,"Kremfløte, 37 % fett, laktosefri",Melk,96.0
+64,"Kvarg, 1 % fett, Kesam",Melk,55.199999999999996
+65,"Kvarg, 7 % fett, Kesam",Melk,204.0
+66,"Lettrømme, 10 % fett",Melk,81.6
+67,"Lettrømme, 18 % fett",Melk,195.6
+68,"Lettrømme, 18 % fett, økologisk",Melk,62.4
+69,"Matfløte, 18 % fett",Melk,128.4
+70,"Matlagingsprodukt, av havre, 13 % fett",Melk,230.39999999999998
+71,"Matlagingsprodukt, av soya, 17 % fett",Melk,126.0
+72,"Matlagingsprodukt, whipping",Melk,163.2
+73,"Rømmedressing, med urter",Melk,226.79999999999998
+74,"Seterrømme, 35 % fett",Melk,106.8
+75,"Syrnet, tyknet havreprodukt",Melk,175.2
+76,"Brie, hvitmuggost",Melk,171.6
+77,"Cheddar, gulost",Melk,42.0
+78,"Crème Chérie, mykost",Melk,78.0
+79,"Geitost, hvit, Balsfjord",Melk,49.199999999999996
+80,"Gorgonzola, blåmuggost",Melk,217.2
+81,"Gruyere, ost",Melk,127.19999999999999
+82,Gräddost,Melk,123.6
+83,"Mascarpone, kremost",Melk,193.2
+84,"Norzola, blåmuggost",Melk,148.79999999999998
+85,Ridderost,Melk,52.8
+86,"Roquefort, blåmuggost",Melk,66.0
+87,"Royal Blue, blåmuggost",Melk,86.39999999999999
+88,"Selbu blå, blåmuggost",Melk,193.2
+89,"Selbu blå, blåmuggost, økologisk",Melk,129.6
+90,"Stilton, blåmuggost",Melk,66.0
+91,"Østavind, gulost",Melk,64.8
+92,"Brunost, uspesifisert",Melk,237.6
+93,"Camembert, hvitmuggost",Melk,34.8
+94,"Chevre, geitost, naturell",Melk,115.19999999999999
+95,"Edamer, gulost",Melk,52.8
+96,"Feta, ost med geitmelk",Melk,26.4
+97,"Fløtemysost, brunost",Melk,87.6
+98,"Geitost, brunost",Melk,141.6
+99,"Geitost, hvit, Kvitlin",Melk,121.19999999999999
+100,"Geitost, smørbar, dill, Snøfrisk",Melk,50.4
+101,"Geitost, smørbar, kantarell, Snøfrisk",Melk,120.0
+102,"Geitost, smørbar, naturell, Snøfrisk",Melk,124.8
+103,"Geitost, smørbar, rødløk og timian, Snøfrisk",Melk,178.79999999999998
+104,"Gudbrandsdalsost, brunost",Melk,214.79999999999998
+105,"Gulost, uspesifisert",Melk,176.4
+106,"Halloumi, ost",Melk,147.6
+107,"Jarlsberg, gulost",Melk,38.4
+108,"Kremost, krydder",Melk,213.6
+109,"Kremost, naturell",Melk,111.6
+110,"Kremost, pepper",Melk,112.8
+111,"Kremost, Philadelphia",Melk,44.4
+112,"Kremost, urter",Melk,50.4
+113,Mozzarella,Melk,49.199999999999996
+114,"Normanna, blåmuggost",Melk,120.0
+115,"Norvegia, gulost",Melk,142.79999999999998
+116,"Norvegia, gulost, fyldig",Melk,177.6
+117,"Norvegia, gulost, vellagret",Melk,139.2
+118,"Norvegia, gulost, økologisk",Melk,51.6
+119,Nøkkelost,Melk,222.0
+120,"Parmesan, ost",Melk,183.6
+121,"Pizzaost, revet",Melk,188.4
+122,"Port Salut, kittmodnet ost",Melk,121.19999999999999
+123,"Raclette, ost",Melk,78.0
+124,"Sveitserost, gulost",Melk,217.2
+125,"Taffelost, tomat",Melk,232.79999999999998
+126,Ystet produkt med vegetabilsk fett,Melk,121.19999999999999
+127,"Baconost, smørbar",Melk,94.8
+128,Cottage Cheese,Melk,42.0
+129,"Fløtemysost, brunost, lett",Melk,128.4
+130,Gamalost,Melk,142.79999999999998
+131,"Gomme, Namdal",Melk,230.39999999999998
+132,"Gudbrandsdalsost, brunost, lett",Melk,38.4
+133,"Jarlsberg, gulost, lett",Melk,109.2
+134,"Kremost, lett, Philadelphia",Melk,183.6
+135,"Magerost, smørbar, 10 % fett",Melk,56.4
+136,"Magerost, smørbar, 3 % fett",Melk,206.4
+137,"Magerost, smørbar, 7 % fett",Melk,142.79999999999998
+138,"Mozzarella, lett",Melk,28.799999999999997
+139,"Norvegia, gulost, lett",Melk,184.79999999999998
+140,"Nøkkelost, lett",Melk,76.8
+141,Prim,Melk,184.79999999999998
+142,"Prim, lett",Melk,240.0
+143,"Prim, med jern, Sprett",Melk,80.39999999999999
+144,"Pultost, Hedemark",Melk,92.39999999999999
+145,"Pultost, Løiten",Melk,195.6
+146,"Ricotta, ferskost",Melk,94.8
+147,"Egg, rå",Egg,120.0
+148,"Egg, økologisk, rå",Egg,112.8
+149,Eggedosis,Egg,123.6
+150,Eggehvite,Egg,228.0
+151,Eggeplomme,Egg,120.0
+152,"Egg, kokt",Egg,169.2
+153,"Egg, stekt i fett",Egg,219.6
+154,"Egg, økologisk, kokt",Egg,120.0
+155,"Egg, økologisk, stekt",Egg,184.79999999999998
+156,"Eggehvite, kokt",Egg,208.79999999999998
+157,"Eggeplomme, kokt",Egg,24.0
+158,"Eggerøre, stekt i fett",Egg,225.6
+159,"Eggerøre, stekt uten fett",Egg,200.4
+160,"Omelett, stekt i fett",Egg,120.0
+161,"Omelett, stekt uten fett",Egg,73.2
+162,"And, kjøtt med skinn, rå",Fugl,174.0
+163,"And, kjøtt uten skinn, rå",Fugl,38.4
+164,"Gås, kjøtt med skinn, rå",Fugl,24.0
+165,"Gås, kjøtt uten skinn, rå",Fugl,198.0
+166,"Høne, bryst, filet, uten skinn, rå",Fugl,84.0
+167,"Høne, kjøtt med skinn, rå",Fugl,237.6
+168,"Høne, kjøtt uten skinn, rå",Fugl,33.6
+169,"Kalkun, bryst, filet, uten skinn, rå",Fugl,160.79999999999998
+170,"Kalkun, kjøtt med skinn, rå",Fugl,100.8
+171,"Kalkun, kjøtt uten skinn, rå",Fugl,73.2
+172,"Kylling, filet, uten skinn, rå",Fugl,40.8
+173,"Kylling, hel, med skinn, landkylling, rå",Fugl,132.0
+174,"Kylling, hel, med skinn, rå",Fugl,199.2
+175,"Kylling, hel, uten skinn, rå",Fugl,61.199999999999996
+176,"Kylling, lår (overlår og lårklubbe), med skinn, rå",Fugl,210.0
+177,"Kylling, lår (overlår og lårklubbe), uten skinn, rå",Fugl,132.0
+178,"Kylling, lårklubbe (underlår), med skinn, rå",Fugl,118.8
+179,"Kylling, lårklubbe (underlår), uten skinn, rå",Fugl,117.6
+180,"Kylling, overlår (lår uten lårklubbe), med skinn, rå",Fugl,81.6
+181,"Kylling, overlår (lår uten lårklubbe), uten skinn,  rå",Fugl,240.0
+182,"Kyllingskinn, rå",Fugl,217.2
+183,"Rype, bryst, uten skinn, rå",Fugl,76.8
+184,"And, kjøtt med skinn, ovnsstekt",Fugl,229.2
+185,"And, kjøtt uten skinn, ovnsstekt",Fugl,229.2
+186,"Gås, kjøtt med skinn, ovnsstekt",Fugl,111.6
+187,"Gås, kjøtt uten skinn, ovnsstekt",Fugl,175.2
+188,"Høne, filet, kokt",Fugl,93.6
+189,"Høne, kjøtt med skinn, kokt",Fugl,230.39999999999998
+190,"Kalkun, brystfilet, uten skinn, ovnsstekt",Fugl,177.6
+191,"Kalkun, kjøtt med skinn, ovnsstekt",Fugl,196.79999999999998
+192,"Kalkun, kjøtt uten skinn, ovnsstekt",Fugl,111.6
+193,"Kylling, filet, kokt",Fugl,237.6
+194,"Kylling, filet, stekt i fett",Fugl,218.4
+195,"Kylling, hel, med skinn, landkylling, ovnsstekt",Fugl,115.19999999999999
+196,"Kylling, hel, med skinn, ovnsstekt",Fugl,182.4
+197,"Kylling, hel, uten skinn, ovnsstekt",Fugl,37.199999999999996
+198,"Kylling, lår (overlår og lårklubbe), med skinn, ovnsstekt",Fugl,122.39999999999999
+199,"Kylling, lår (overlår og lårklubbe), uten skinn, ovnsstekt",Fugl,140.4
+200,"Kylling, lårklubbe (underlår), med skinn, ovnsstekt",Fugl,64.8
+201,"Kylling, lårklubbe (underlår), uten skinn, ovnsstekt",Fugl,181.2
+202,"Kylling, overlår (lår uten lårklubbe), med skinn, ovnsstekt",Fugl,102.0
+203,"Kylling, overlår (lår uten lårklubbe), uten skinn, ovnsstekt",Fugl,171.6
+204,"Rype, bryst uten skinn, ovnsstekt",Fugl,178.79999999999998
+205,"Lam, bogstek, rå",Sau,144.0
+206,"Lam, fett fra lammekjøtt, rå",Sau,42.0
+207,"Lam, flatbiff, rå",Sau,207.6
+208,"Lam, fårikålkjøtt, rå",Sau,189.6
+209,"Lam, grytekjøtt, rå",Sau,229.2
+210,"Lam, indrefilet, rå",Sau,130.79999999999998
+211,"Lam, kotelett og sadel, kjøtt med fettrand, rå",Sau,111.6
+212,"Lam, kotelett og sadel, kjøtt uten fettrand, rå",Sau,51.6
+213,"Lam, lår med mørbrad, rå",Sau,146.4
+214,"Lam, lår, stek, rå",Sau,55.199999999999996
+215,"Lam, ribbe, side med ben, rå",Sau,112.8
+216,"Lam, sadel, rå",Sau,148.79999999999998
+217,"Lam, ytrefilet, rå",Sau,157.2
+218,"Pinnekjøtt, råvare",Sau,177.6
+219,"Sau, fårekjøtt, lettsaltet, rå",Sau,228.0
+220,"Lam, kotelett, stekt",Sau,100.8
+221,"Lam, lårstek med mørbrad, ovnsstekt",Sau,44.4
+222,"Kalv, koteletter, rå",Fe,32.4
+223,"Kalv, stek, rå",Fe,195.6
+224,"Storfe, bankekjøtt, rå",Fe,139.2
+225,"Storfe, bibringe, rå",Fe,216.0
+226,"Storfe, bog, uten knoke, rå",Fe,168.0
+227,"Storfe, bogstek, rå",Fe,188.4
+228,"Storfe, entrecôte, synlig fett skåret vekk, rå",Fe,162.0
+229,"Storfe, entrecôtekam, rå",Fe,216.0
+230,"Storfe, fett fra storfekjøtt, rå",Fe,192.0
+231,"Storfe, filetkam, rå",Fe,178.79999999999998
+232,"Storfe, flatbiff, rå",Fe,159.6
+233,"Storfe, høyrygg, rå",Fe,129.6
+234,"Storfe, indrefilet, rå",Fe,175.2
+235,"Storfe, kam, rå",Fe,236.39999999999998
+236,"Storfe, kotelettkam, rå",Fe,55.199999999999996
+237,"Storfe, mørbrad, rå",Fe,238.79999999999998
+238,"Storfe, rundstek, rå",Fe,93.6
+239,"Storfe, ytrefilet, rå",Fe,150.0
+240,"Bankekjøtt, salt",Fe,31.2
+241,"Storfe, entrecôtekam, stekt",Fe,148.79999999999998
+242,"Storfe, kjøtt, kokt",Fe,108.0
+243,"Storfe, stek, roastbiff, rosa stekt",Fe,132.0
+244,"Storfe, ytrefilet, stekt",Fe,110.39999999999999
+245,"Svin, 70 % skinke, 30 % flatbiff, strimlet, rå",Svin,121.19999999999999
+246,"Svin, bacon med svor, rå",Svin,171.6
+247,"Svin, bogstek, kjøtt uten fettrand, rå",Svin,160.79999999999998
+248,"Svin, bogstek, med fettrand, rå",Svin,237.6
+249,"Svin, familieribbe, rå",Svin,51.6
+250,"Svin, fettrand, rå",Svin,28.799999999999997
+251,"Svin, flatbiff, rå",Svin,31.2
+252,"Svin, grillben, rå",Svin,211.2
+253,"Svin, indrefilet, rå",Svin,117.6
+254,"Svin, kjøtt fra knoke, rå",Svin,138.0
+255,"Svin, kotelett, kam, svinekotelett, uten fettrand, rå",Svin,56.4
+256,"Svin, kotelett, kam, svinekoteletter, inntil 5 mm fettrand, rå",Svin,90.0
+257,"Svin, midtribbe, med kam og svor, rå",Svin,78.0
+258,"Svin, mørbrad, rå",Svin,184.79999999999998
+259,"Svin, nakkekoteletter, rå",Svin,174.0
+260,"Svin, sideflesk, lettsaltet, rå",Svin,134.4
+261,"Svin, sideflesk, uten ben, rå",Svin,154.79999999999998
+262,"Svin, skinke, med knoke, rå",Svin,196.79999999999998
+263,"Svin, skinkestek med fettrand, uten svor, rå",Svin,163.2
+264,"Svin, skinkestek, rå",Svin,205.2
+265,"Svin, tynnribbe, med svor, rå",Svin,148.79999999999998
+266,"Svin, ytrefilet, rå",Svin,97.2
+267,"Svin, bacon med svor, stekt",Svin,192.0
+268,"Svin, familieribbe, stekt",Svin,138.0
+269,"Svin, flatbiff, stekt",Svin,81.6
+270,"Svin, koteletter, kam med fettrand, stekt",Svin,169.2
+271,"Svin, koteletter, kam uten fettrand, stekt",Svin,115.19999999999999
+272,"Svin, nakkekoteletter, stekt",Svin,93.6
+273,"Svin, sideflesk, lettsaltet, stekt",Svin,240.0
+274,"Svin, stek uten fettrand, ovnsstekt",Svin,122.39999999999999
+275,"Svin, stek, med fettrand, ovnsstekt",Svin,147.6
+276,"Blod, okse, rå",Fe,94.8
+277,"Elg, ytterlår, stek, rå",Vilt,141.6
+278,"Hamburger, rå",Vilt,38.4
+279,"Hare, kjøtt, rå",Vilt,104.39999999999999
+280,"Hjerte, rå",Vilt,56.4
+281,"Hjort, stek, rå",Vilt,39.6
+282,"Hval, kjøtt, rå",Vilt,99.6
+283,"Kanin, kjøtt, rå",Vilt,69.6
+284,"Karbonadedeig, rå",Kjøtt,49.199999999999996
+285,"Kjøttdeig, kylling, rå",Kjøtt,116.39999999999999
+286,"Kjøttdeig, storfe, med salt og vann, rå",Kjøtt,146.4
+287,"Kjøttdeig, storfe, uten salt og vann, rå",Kjøtt,117.6
+288,"Kjøttdeig, svin, rå",Kjøtt,31.2
+289,"Kjøttfarse, rå",Kjøtt,115.19999999999999
+290,"Lever, kylling, rå",Kjøtt,188.4
+291,"Lever, lam, rå",Kjøtt,104.39999999999999
+292,"Lever, rein, rå",Kjøtt,66.0
+293,"Lever, storfe, rå",Kjøtt,32.4
+294,"Lever, svin, rå",Kjøtt,64.8
+295,"Medisterdeig, rå",Kjøtt,111.6
+296,"Reinsdyr, bog, stek, rå",Kjøtt,106.8
+297,"Rådyr, kjøtt, rå",Kjøtt,194.4
+298,"Villsvin, kjøtt, rå",Kjøtt,150.0
+299,"Wienersnitzel, rå",Kjøtt,157.2
+300,Blodpudding,Kjøtt,198.0
+301,"Bogskinke, hermetisk",Kjøtt,166.79999999999998
+302,"Elg, stek, ovnsstekt",Kjøtt,141.6
+303,"Karbonadedeig, stekt uten fett",Kjøtt,85.2
+304,Kjøttboller,Kjøtt,231.6
+305,"Kjøttboller, First Price",Kjøtt,69.6
+306,"Kjøttboller, hermetisk",Kjøtt,96.0
+307,"Kjøttboller, kalkun og kylling",Kjøtt,216.0
+308,"Kjøttboller, kalkun og kylling, Prior",Kjøtt,54.0
+309,"Kjøttboller, kylling, Coop",Kjøtt,121.19999999999999
+310,"Kjøttboller, svenske, Coop",Kjøtt,86.39999999999999
+311,"Kjøttboller, svenske, Gilde",Kjøtt,181.2
+312,"Kjøttdeig, storfe, stekt uten fett",Kjøtt,224.4
+313,"Kjøttdeig, svin, stekt uten fett",Kjøtt,187.2
+314,Kjøttkaker,Kjøtt,24.0
+315,"Kjøttkaker, Gilde",Kjøtt,120.0
+316,"Kjøttkaker, Nordfjord",Kjøtt,109.2
+317,"Lungemos, kjøpt",Kjøtt,216.0
+318,"Reinsdyr, kjøtt, røkt",Kjøtt,69.6
+319,"Reinsdyr, kjøtt, tørket, rå",Kjøtt,128.4
+320,"Reinsdyrkaker, hermetisk",Kjøtt,210.0
+321,"Reinsdyrskav, fryst, rå",Kjøtt,129.6
+322,Falukorv,Pølse,117.6
+323,Fleskepølse,Pølse,229.2
+324,Fårepølse,Pølse,104.39999999999999
+325,Grillpølse,Pølse,82.8
+326,"Grillpølse, Gilde",Pølse,56.4
+327,"Grillpølse, kalkun og kylling",Pølse,145.2
+328,"Grillpølse, kalkun og kylling, Prior",Pølse,145.2
+329,"Grillpølse, kalkun og kylling, Solvinge",Pølse,118.8
+330,"Grillpølse, mager, Gilde",Pølse,210.0
+331,"Grillpølse, Nordfjord",Pølse,181.2
+332,"Grillpølse, X-tra",Pølse,109.2
+333,"Kjøttpølse, Gilde",Pølse,63.599999999999994
+334,"Kjøttpølse, med mindre fett",Pølse,78.0
+335,"Kjøttpølse, Nordfjord",Pølse,100.8
+336,"Kjøttpølse, røkt/urøkt",Pølse,172.79999999999998
+337,Knakkpølse,Pølse,158.4
+338,"Kylling- og kalkunpølse, med mindre fett",Pølse,36.0
+339,"Kylling- og kalkunpølse, med ost",Pølse,82.8
+340,"Medisterpølse, røkt/urøkt, kokt",Pølse,127.19999999999999
+341,"Ostegrill, ostewiener",Pølse,43.199999999999996
+342,Reinsdyrpølse,Pølse,211.2
+343,"Salsiccia, italiensk pølse",Pølse,208.79999999999998
+344,"Sosisser, små pølser",Pølse,73.2
+345,Wienerpølse,Pølse,194.4
+346,"Wienerpølse, Finsbråten",Pølse,192.0
+347,"Wienerpølse, Gilde",Pølse,124.8
+348,"Wienerpølse, kalkun og kylling, Prior",Pølse,51.6
+349,"Wienerpølse, mager, Gilde",Pølse,79.2
+350,"Wienerpølse, X-tra",Pølse,192.0

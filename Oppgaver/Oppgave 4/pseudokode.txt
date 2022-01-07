@@ -1,0 +1,3 @@
+# variabel med int og input type, "Velg tall mellom 1-10"
+# for løkke med start verdi på 1 og slutt verdi på 11
+# print som ganger teller med gangetabell inputen din

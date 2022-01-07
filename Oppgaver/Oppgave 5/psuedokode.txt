@@ -1,0 +1,19 @@
+# importer random
+
+# tittel på program skrives til skjerm
+
+# string input der bruker kan taste inn hva de tror tallet kommer til å bli
+
+# gjør input string om til interger
+
+# variabel som får en random interger verdi
+
+# variabel med data type interger, som teller antall ganger bruker har gjettet
+
+# en whileløkke som kjøres når randomverdi ikke er lik inputen
+
+# if setning som sjekker om random variabelen er lavere en inputen
+
+# elif setning som skjekker om random er høyere enn input
+
+# else setning som kun skrives ut når brukeren fikk riktig. Skriver også ut hvor mange 

@@ -1,0 +1,6 @@
+#   lag to variabler for tall
+#   
+#   addisjon
+#   subtraksjon
+#   divisjon
+#   multiplikasjon

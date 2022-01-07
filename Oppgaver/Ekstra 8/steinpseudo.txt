@@ -1,0 +1,18 @@
+# import random
+
+# en cpuliste med stein saks papir som elementene
+# en variabel med str input()
+# en poeng variabel
+
+# variabel som har random.choice(cpuliste) som verdi 
+
+# while løkke som kjører til 
+
+# if setning som sjekker om inputen din er riktig
+# elif setning som sjekker om brukeren har gitt en verdi som er bedre enn cpu'ens valg
+    # print du vant og gi poeng variabelen +1,  og minus runde variabelen
+# elif setning som sjekker om brukeren har gitt en verdi som er dårligere enn cpu'ens valg
+    # print du vant og gi poeng variabelen -1, og minus runde variabelen
+# elif setning som sjekker om brukeren har samme verdi
+# elif setning som sjekker at hvis runden er på 4 så bryt while løkken.
+# else setning som sier bryter while løkken 

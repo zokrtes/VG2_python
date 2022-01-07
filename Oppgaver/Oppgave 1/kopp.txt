@@ -1,0 +1,11 @@
+# oprett grønnkopp
+# gi grønnkopp verdi av blåtusj
+# oprett svartkopp
+# gi svartkopp verdi av rødtusj
+# skriv ut verdien av grønnkopp og svartkopp
+# flytt blåtusj til hvitkopp
+# skriv ut verdien av hvitkopp
+# flytt blåtusj til svartkopp
+# flytt rødtusj til hvitkopp
+# skriv innholdet til svartkopp til skjerm
+# skriv innholdet itl grønnkopp til skjerm
